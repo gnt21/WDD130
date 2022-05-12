@@ -1,0 +1,53 @@
+img {
+    display: block;
+    width: 20%;
+    margin: 0 auto;
+}
+header h1  {
+    color: white;
+    font-size: 6em;
+}
+main h1  {
+    color: white;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
+h2  {
+    color: white;
+    font-size: 3em;
+    text-align: center;
+}
+h3  {
+    text-align: center;
+}
+h3  p {
+    color: black;
+    text-align: left;
+    width: 45%;
+    margin: 10px auto;
+    font-size: 1.5em;
+}
+h4  {
+    color: white;
+    text-align: center;
+    width: 25%;
+    font-size: 2.5em;
+    margin: 30px auto;
+}
+body {
+    text-align: center;
+    background-color: pink;
+}
+footer {
+    text-align: center;
+}
+footer p {
+    text-align: center;
+    font-size: 1em;
+    width: 30%;
+    margin: 0 auto;
+}
+header h1:hover {
+    color: black;
+}

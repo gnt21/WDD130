@@ -6,3 +6,33 @@
     background-color: wite;
     color: steelblue;
 }
+img {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+}
+main p {
+    width: 80%;
+    margin: 50px auto;
+    text-align: justify;
+}
+a {
+    font-size: 1.5em;
+    margin: 10px;
+}
+body {
+    text-align: center;
+}
+footer {
+    background-color: steelblue;
+    color: white;
+    text-align: center;
+}
+footer p {
+    font-size: 20px;
+    margin: 20px auto;
+}
+a:hover {
+    background-color: blue;
+    color: white;
+}
