@@ -29,20 +29,24 @@ header {
 }
 nav a:hover {
     background-color: #072ac8;
+    color: #fcf300;
 }
 .book {
     background-color: #ff4002;
     text-decoration: none;
 }
 .join {
-    background-color: #ff4002;
+    background-color: #072ac8;
     text-decoration: none;
+    color: #fcf300;
 }
 .book:hover {
     background-color: #072ac8;
+    color: #fcf300;
 } 
 .join:hover {
-    background-color: #072ac8;
+    background-color: #fcf300;
+    color: #072ac8;
 }
 #background {
     background-color: #c492b1;
