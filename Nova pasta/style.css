@@ -1,0 +1,42 @@
+.i0 {
+    width: 100%;
+}
+body  {
+    margin: 0;
+    text-align: center;
+}
+div {
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+main  {
+    background-color: #696969;
+    width: 80%;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0 auto;
+}
+.i1 {
+    border-color: rgb(65, 65, 65);
+    border-style:solid;
+    border-radius: 180px;
+    border-width: 10px;
+    width: 22   %;
+}
+.i2 {
+    border-color: rgb(65, 65, 65);
+    border-style:solid;
+    border-radius: 180px;
+    border-width: 10px;
+    width: 22%;
+}
+.i3 {
+    border-color: rgb(65, 65, 65);
+    border-style:solid;
+    border-radius: 180px;
+    border-width: 10px;
+    width: 22%;
+}
