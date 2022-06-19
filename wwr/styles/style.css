@@ -192,6 +192,94 @@ nav{
     z-index: -1;
 }
 
+/* Excusive Page2 - Rate and Dates css */
+.rates-grid {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.rates-grid p {
+    margin-top: 0;
+}
+.canyon-tree-img {
+    border: 10px solid #fcf300;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #6f7364;
+    width: 100%;
+    height: 80%;
+    grid-column: 2/4;
+    grid-row: 1/4;
+}
+.canyon-tree-img:hover {
+    opacity: .6;
+    transform: scale(1.1);
+}
+.canyon-tree {
+    grid-column: 5/9;
+    grid-row: 2/3;
+    text-align: left;
+}
+.canyon-six-img {
+    border: 10px solid #fcf300;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #6f7364;
+    width: 100%;
+    height: 80%;
+    grid-column: 2/4;
+    grid-row: 5/8;
+}
+.canyon-six-img:hover {
+    opacity: .6;
+    transform: scale(1.1);
+}
+.canyon-six {
+    grid-column: 5/9;
+    grid-row: 6/7;
+    text-align: left;
+}
+.salmon-img {
+    border: 10px solid #fcf300;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #6f7364;
+    width: 100%;
+    height: 80%;
+    grid-column: 2/4;
+    grid-row: 9/12;
+}
+.salmon-img:hover {
+    opacity: .6;
+    transform: scale(1.1);
+}
+.salmon {
+    grid-column: 5/9;
+    grid-row: 10/11;
+    text-align: left;
+}
+.desolation-img {
+    border: 10px solid #fcf300;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #6f7364;
+    width: 100%;
+    height: 80%;
+    grid-column: 2/4;
+    grid-row: 13/16;
+}
+.desolation-img:hover {
+    opacity: .6;
+    transform: scale(1.1);
+}
+.desolation {
+    grid-column: 5/9;
+    grid-row: 14/15;
+    text-align: left;
+}
+.rates-footer {
+    margin-top: 50px;
+}
+
+/* Responsive */
+
+
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
