@@ -57,6 +57,9 @@ footer {
     text-decoration: underline;
     color: #aabd8c;
 }
+.social a {
+    text-decoration: none;
+}
 footer h3 {
     margin: 0;
 }
